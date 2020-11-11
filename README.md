@@ -16,8 +16,7 @@ Testa hosts que aceitam icmp na rede, geralmente hosts ativos sem bloqueio deste
                        Modo de uso: ./PingSweep.sh REDE
                        Exemplo: ./PingSweep.sh 192.168.0
 
-┌─[root@parrot]─[/home/test/Desktop/BASH/CRIA/OUT]
-└──╼ #./PingSweep.sh 192.168.0
+./PingSweep.sh 192.168.0
 
 		 ____   _                ____
 		|  _ \ (_) _ __    __ _ / ___|__      __ ___  ___  _ __
