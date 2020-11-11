@@ -28,7 +28,7 @@ Testa hosts que aceitam icmp na rede, geralmente hosts ativos sem bloqueio deste
             		  Version 1.1    Author @BlackCyber
 			  https://github.com/BlackCyber21/
 
-192.168.0.5
-192.168.0.6
-192.168.0.7
-192.168.0.254
+# 192.168.0.5
+# 192.168.0.6
+# 192.168.0.7
+# 192.168.0.254
